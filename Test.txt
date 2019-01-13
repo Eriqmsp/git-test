@@ -3,34 +3,43 @@ Comandos usados con Git:
     git status
         Muestra el estado de git
     git add "Archivo"
-        Agregar archivo indicado
+        Agrega archivo a staging area
     git add .
-        Agregar todos los archivos
+        Agrega todos los archivos
     git commit
+        Agrega archivo de staging area a repository
     git commit -m "Mensaje"
-        Evitar entrar al editor de codigo VIN
+        Evitar entrar al editor *VIN
     git log
+        log de commit de git
     git config -- global user.email "email" 
-        Configurar email del usuario
-        git config -- global user.name "nombre" 
-        Configurar nombre del usuario
-    git checkout "Archivo"
+        Configura email del usuario
+    git config -- global user.name "nombre" 
+        Configura nombre del usuario
+    git checkout -- "Archivo"
+        Revierte los cambios del archivo
     git diff "Archivo"
-        Muestra diferencia del archivo
+        Muestra la diferencia del archivo
     .gitignore
-        Crear archivo para ignorar un carpeta 
-        o archivo en mi entorno de trabajo
+        Archivo .gitignore para ignorar 
+        una carpeta o archivo de mi workspace
     git branch
+        Listar ramas(master: default)
     git branch "Version/Rama"
-        Crear una nueva version alternativa
+        Crea una nueva version alternativa
     git checkout "Version/Rama"
-        Cambiar de version/rama
+        Cambia a la rama indicada
 
 Comandos usados con GitHub
     git remote add origin "Url_github"
         Url_github: https://github.com/Eriqmsp/git-test.git
     git push -u origin "Version/Rama"
+        Inicializa archivos en el server
     git push
+        Sube los archivos al server
+    git pull
     git clone "Url_github"
+        Copia de server a pc
 
-
+VIN
+    Editor de codigo de git desde la consola

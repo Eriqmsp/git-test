@@ -1,0 +1,12 @@
+Commands for GIT
+
+git init
+git status
+    Muestra elesatdo de git
+git commit
+git log
+git diff "Archivo"
+    Muestra diferencia del archivo
+
+
+

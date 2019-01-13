@@ -1,1 +1,17 @@
-test int Git
+Comandos usados en esta prueba:
+    git init
+    git status
+        Muestra elesatdo de git
+    git commit
+    git commit -m "Mensaje"
+        Evitar entrar al editor de codigo
+    git log
+    git checkout "Archivo"
+    git diff "Archivo"
+        Muestra diferencia del archivo
+    .gitignore
+        Crear archivo para no agregar alguna 
+        carpeta/archivo a mi entorno de trabajo
+
+
+

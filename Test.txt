@@ -38,6 +38,7 @@ Comandos usados con GitHub
     git push
         Sube los archivos al server
     git pull
+        Descarga los archivos del server
     git clone "Url_github"
         Copia de server a pc
 

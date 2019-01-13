@@ -1,4 +1,4 @@
-Comandos usados en esta prueba:
+Comandos usados con Git:
     git init
     git status
         Muestra el estado de git
@@ -21,7 +21,7 @@ Comandos usados en esta prueba:
     git checkout "Version/Rama"
         Cambiar de version/rama
 
-Subir proyecto a GitHub
+Comandos usados con GitHub
     git remote add origin "Url_github"
         Url_github: https://github.com/Eriqmsp/git-test.git
     git push -u origin "Version/Rama"

@@ -42,5 +42,6 @@ Comandos usados con GitHub
     git clone "Url_github"
         Copia de server a pc
 
-VIN
-    Editor de codigo de git desde la consola
+Diccionario
+    VIN
+        Editor de codigo de git desde la consola
